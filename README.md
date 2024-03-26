@@ -46,23 +46,33 @@ Write the detailed procedure here
 
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by:SALINI .A RegisterNumber:212223220091
 */
+
 **CODE**
+
 **FULL ADDER:**
 
 ![Screenshot 2024-03-26 090151](https://github.com/salinianbzhgan/FULL_ADDER_SUBTRACTOR/assets/145742862/6b1dfe27-2bdc-4cc4-864c-a54bf249b82b)
+
 **FULL SUBTRACTOR:**
+
 ![Screenshot 2024-03-26 090200](https://github.com/salinianbzhgan/FULL_ADDER_SUBTRACTOR/assets/145742862/a09ac518-5a57-409b-9257-d4ecfe44f478)
 
 **RTL Schematic**
 **FULL ADDER:**
+
 ![Screenshot 2024-03-26 090209](https://github.com/salinianbzhgan/FULL_ADDER_SUBTRACTOR/assets/145742862/d55f56c1-dd06-421f-99d5-626f07c5957f)
+
 **FULL SUBTRACTOR:**
+
 ![Screenshot 2024-03-26 090218](https://github.com/salinianbzhgan/FULL_ADDER_SUBTRACTOR/assets/145742862/2ae6344e-fb67-436e-8639-01283729bfb2)
 
 **Output Timing Waveform**
 **FULL ADDER:**
+
 ![Screenshot 2024-03-26 090233](https://github.com/salinianbzhgan/FULL_ADDER_SUBTRACTOR/assets/145742862/3f205a31-f07c-4d25-af3a-e14671af38d5)
+
 **FULL SUBTRACTOR:**
+
 ![Screenshot 2024-03-26 090243](https://github.com/salinianbzhgan/FULL_ADDER_SUBTRACTOR/assets/145742862/c349faca-e5b7-4b6c-becf-215bd54e055c)
 
 **Result:**
